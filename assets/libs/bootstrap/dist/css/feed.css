@@ -1,0 +1,30 @@
+.feed{
+	margin: auto;
+	height: auto;
+	width:1000px;
+	background:#ffffff;
+	padding:10px;
+
+}
+.content {
+    padding-left: 5px;
+	vertical-align: center;
+	align-content: center;
+	border: 1px solid black;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+}
+.content img{
+
+}
+.description{
+	color: #041014;
+	background:#2d6d36;
+	margin-bottom: 20px;
+	margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.mainbody {
+    background:#a7a7a7;
+}
